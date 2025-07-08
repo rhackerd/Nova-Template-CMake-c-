@@ -36,7 +36,7 @@ namespace {} {{
 }}
 
 namespace Nova {{
-    namespace {} = {}; 
+    namespace {} = ::{}; 
 }}
 
 #endif
