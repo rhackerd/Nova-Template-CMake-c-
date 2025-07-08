@@ -10,7 +10,6 @@ target_include_directories(core PUBLIC
 )
 
 # Link required libraries
-target_link_libraries(core
-    PUBLIC
-        fmt::fmt        # String formatting
+target_link_libraries(core PUBLIC
+
 )

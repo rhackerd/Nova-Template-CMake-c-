@@ -1,4 +1,5 @@
 build
+.cache
 build.log
 .ninja_log
 .ninja_deps
